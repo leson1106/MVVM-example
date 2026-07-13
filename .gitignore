@@ -187,9 +187,12 @@ XcodeProj.framework.zip
 
 !Fixtures/**/xcuserdata/
 
+build/
 Derived/
 *.xcworkspace/
 *.xcodeproj/
+
+MVVM/Secrets.plist
 
 !Fixtures/**/*.xcodeproj/
 
