@@ -180,7 +180,6 @@ xcuserdata
 .vscode
 
 build/
-XcodeProj.xcodeproj
 .idea/
 tmp/
 XcodeProj.framework.zip
@@ -189,8 +188,6 @@ XcodeProj.framework.zip
 
 build/
 Derived/
-*.xcworkspace/
-*.xcodeproj/
 
 MVVM/Secrets.plist
 
